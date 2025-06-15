@@ -28,5 +28,6 @@ def main():
     else:
         print("Invalid command or missing amount.")
 
+
 if __name__ == "__main__":
     main()
